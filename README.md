@@ -76,7 +76,7 @@ src/main/java/com/warehouse/api/
 
 ```bash
 git clone <repository-url>
-cd warehouse-api
+cd WarhouseApp
 ```
 
 ### Langkah 2: Jalankan Aplikasi
